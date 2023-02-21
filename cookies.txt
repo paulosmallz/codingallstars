@@ -1,0 +1,35 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.classcentral.com	TRUE	/report/	FALSE	1999999999	ppwp_wp_session	8b435ede12204434f111458c34850d5e%7C%7C1676528124%7C%7C1676527764
+www.classcentral.com	TRUE	/	FALSE	1999999999	PHPSESSID	fmpnfuv6iu8odjbnqdlk08skk5
+www.classcentral.com	TRUE	/	FALSE	1999999999	samesite	lax
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=VGST02:s=V:r=V:a=V:p=V:g=2817:u=1:x=1:i=1676525967:t=1676612367:v=2:sig=AQGs6L5s5HA085Fp3oUHG39OucbXjflX"
+www.linkedin.com	TRUE	/	FALSE	1999999999	trkCode	gf
+www.linkedin.com	TRUE	/	FALSE	1999999999	trkInfo	AQGc5EytrNt7PwAAAYZYvBaYOl1s1rOrnqr7WnErPAYSW-0QEfxEZZs5omiD78wVM6VCwm6dv5QQc6tSjRt71lidOQJ1wsM3CZ-nk74jHurWoO9ezydnUy-Ufe324dJePlaw8Q4=
+.linkedin.com	TRUE	/	FALSE	1999999999	rtc	AQE_iKs4xa3jEwAAAYZYvBaY8YxczSnGiBdLWQlvWkmZ0kbQlHOkk0OGefqIV-sARaAsX0Yg-lAPQDM5oDQZN53GKzPIlii0tCkYjp-qaPU922w-D_W-LdrJmSrotB9AbGav3U_4YJgUQItEJxmOrTj5SdxMeIUs7qOx0oUJpUCw41oxTfadCMjoykIuUULzf_r8EL9F7GTM8XsodIXRoEhrxVLxKKzNoreqjc9W8mTuymzGjkdiJ1poSAdhe14wew==
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	HQv2CYFZ17dye4VyPf4lnKo9wMWBnXUhFkJJV3FVqd92QDnqrpa2ckj3hCBe7lplGZ7FoVbNnmu36yWQ0sFNhBLrX7NrXJj%2BJmoAknOLECYChwrRmS0s%2BtyqqLALAiPYg5U1VdQH8PtCJ4QXgPVRA6juKUQZnNdRx4V6wIKf5or6EtEvF88dnXmYG6fkg5q3nvwq9xLGhO6LzCSKeyZY%2BvA3sMKMHsSQGOErtdr0d8sf4kn0xxTceS7jiXRzxl3k3wF3WB0BF8BcM1a%2BY1PSIQ%3D%3D--1t3PfpgNuKBbRp0p--Pbv1E2o1zczgYyfIHhMXlA%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1767506018.1676525968
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	GDheiysNKKRy13jeVfxvoRN6M8VFEJJYex7W_WEsZSc-1676526003-0-ActGQZKGAIpBsUvGK1GaUg3M8crXyB8X3UTkTTC5PFUfsG5qltoz2Uv0SXeVb8weUstOQJq8vkEqDRvoQFjdp44=
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+.facebook.com	TRUE	/	FALSE	1999999999	datr	GsPtY-2Vj7RDpd1dJdfU2RCB
+.facebook.com	TRUE	/	FALSE	1999999999	sb	GsPtY-RyTfnAE0TILSkt8v_x
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:3102413477300494218
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	ns9LtAI-eL4
+.youtube.com	TRUE	/	FALSE	1999999999	DEVICE_INFO	ChxOekl3TURZeU5Ua3dOVGczTkRrek5ERTBOdz09EJyGt58GGJyGt58G
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	2Wpy_y-C8Z4
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167652639286384278
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167652639286384278
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_HUWyYM6K0DYJarlA1jZRNg=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167652639286384278
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&3971758c-faec-4421-8669-711b9af50665"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20230216054634f2291953-7e8e-49f2-8f79-be0b9497f089AQFYv0DKyYCO3RmwUfEaIxbhuaSuQjTh"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0RcYifhfPGF1bpily..Bj7cMa.ll.AAA.0.0.Bj7cNt.AWVrJjNgswA
+
